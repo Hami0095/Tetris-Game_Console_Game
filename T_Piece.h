@@ -35,7 +35,7 @@ public:
 	//rotation: 
 	void rotation(Board&);
 	bool canItRotate(Board&);
-	// ____________ NOT-COMPLETED _____________
+	// ____________ COMPLETED _____________
 
 
 };
